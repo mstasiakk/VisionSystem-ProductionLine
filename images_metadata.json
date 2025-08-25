@@ -1,0 +1,74 @@
+[
+  {
+    "file_path": "TestImages\\Test_Image_Edible\\TestImage_edible_1.jpg",
+    "file_size_bytes": 9593,
+    "dimensions": {
+      "width": 200,
+      "height": 146
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_Edible\\TestImage_edible_2.jpg",
+    "file_size_bytes": 107369,
+    "dimensions": {
+      "width": 500,
+      "height": 375
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_Edible\\TestImage_edible_3.jpg",
+    "file_size_bytes": 98132,
+    "dimensions": {
+      "width": 640,
+      "height": 480
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_Edible\\TestImage_edible_4.jpg",
+    "file_size_bytes": 11292,
+    "dimensions": {
+      "width": 235,
+      "height": 214
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_Edible\\TestImage_edible_5.jpg",
+    "file_size_bytes": 5624,
+    "dimensions": {
+      "width": 227,
+      "height": 227
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_NonEdible\\TestImage_notedible_1.jpg",
+    "file_size_bytes": 4169198,
+    "dimensions": {
+      "width": 3177,
+      "height": 2383
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_NonEdible\\TestImage_notedible_2.jpg",
+    "file_size_bytes": 18317,
+    "dimensions": {
+      "width": 327,
+      "height": 436
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_NonEdible\\TestImage_notedible_3.jpg",
+    "file_size_bytes": 208235,
+    "dimensions": {
+      "width": 741,
+      "height": 855
+    }
+  },
+  {
+    "file_path": "TestImages\\Test_Image_NonEdible\\TestImage_notedible_4.jpg",
+    "file_size_bytes": 129744,
+    "dimensions": {
+      "width": 745,
+      "height": 554
+    }
+  }
+]
